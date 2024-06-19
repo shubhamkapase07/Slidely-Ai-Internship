@@ -26,12 +26,14 @@ Running the Desktop App
 * Open the project in Visual Studio.
 * Build and run the application.
   
-Running the Backend Server
+Running the Backend Server (server.ts)
 * Clone the backend repository from [Backend Repository URL].
 * Navigate to the project directory.
 * Install dependencies: npm install.
 * Build TypeScript: npm run build.
 * Start the server: npm start.
+
+Note Run the Server First and then the Desktop app
 
 Usage
 * Create New Submission: Fill in form fields and submit using the "Submit" button or Ctrl + S.

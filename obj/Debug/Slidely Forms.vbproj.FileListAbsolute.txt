@@ -1,0 +1,17 @@
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\bin\Debug\Slidely Forms.exe.config
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\bin\Debug\Slidely Forms.exe
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\bin\Debug\Slidely Forms.pdb
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\bin\Debug\Slidely Forms.xml
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely Forms.vbproj.AssemblyReference.cache
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely_Forms.CreateSubmissionForm.resources
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely_Forms.Form1.resources
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely_Forms.Resources.resources
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely_Forms.ViewSubmissionsForm.resources
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely Forms.vbproj.GenerateResource.cache
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely Forms.vbproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely Forms.exe
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely Forms.xml
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely Forms.pdb
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shubh\OneDrive\Desktop\Slidely Forms\obj\Debug\Slidely .E1750D54.Up2Date
